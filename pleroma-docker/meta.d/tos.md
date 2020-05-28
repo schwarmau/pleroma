@@ -2,7 +2,7 @@
 
 ### 1. Terms
 
-By accessing the website at http://cofe.rocks, you are agreeing to be
+By accessing the website at http://cyborg.cafe, you are agreeing to be
 bound by these terms of service, all applicable laws and regulations,
 and agree that you are responsible for compliance with any applicable
 local laws. If you do not agree with any of these terms, you are
@@ -11,23 +11,23 @@ this website are protected by applicable copyright and trademark law.
 
 ### 2. Disclaimer
 
-The materials on cofe.rocks's website are provided on an 'as is'
-basis. cofe.rocks makes no warranties, expressed or implied, and hereby
+The materials on cyborg.cafe's website are provided on an 'as is'
+basis. cyborg.cafe makes no warranties, expressed or implied, and hereby
 disclaims and negates all other warranties including, without
 limitation, implied warranties or conditions of merchantability, fitness
 for a particular purpose, or non-infringement of intellectual property
-or other violation of rights. Further, cofe.rocks does not warrant or
+or other violation of rights. Further, cyborg.cafe does not warrant or
 make any representations concerning the accuracy, likely results, or
 reliability of the use of the materials on its website or otherwise
 relating to such materials or on any sites linked to this site.
 
 ### 3. Limitations
 
-In no event shall cofe.rocks or its suppliers be liable for any damages
+In no event shall cyborg.cafe or its suppliers be liable for any damages
 (including, without limitation, damages for loss of data or profit, or
 due to business interruption) arising out of the use or inability to use
-the materials on cofe.rocks's website, even if cofe.rocks or a
-cofe.rocks authorized representative has been notified orally or in
+the materials on cyborg.cafe's website, even if cyborg.cafe or a
+cyborg.cafe authorized representative has been notified orally or in
 writing of the possibility of such damage. Because some jurisdictions do
 not allow limitations on implied warranties, or limitations of liability
 for consequential or incidental damages, these limitations may not apply
@@ -35,23 +35,23 @@ to you.
 
 ### 4. Accuracy of materials
 
-The materials appearing on cofe.rocks website could include technical,
-typographical, or photographic errors. cofe.rocks does not warrant that
+The materials appearing on cyborg.cafe website could include technical,
+typographical, or photographic errors. cyborg.cafe does not warrant that
 any of the materials on its website are accurate, complete or current.
-cofe.rocks may make changes to the materials contained on its website at
-any time without notice. However cofe.rocks does not make any commitment
+cyborg.cafe may make changes to the materials contained on its website at
+any time without notice. However cyborg.cafe does not make any commitment
 to update the materials.
 
 ### 5. Links
 
-cofe.rocks has not reviewed all of the sites linked to its website and
+cyborg.cafe has not reviewed all of the sites linked to its website and
 is not responsible for the contents of any such linked site. The
-inclusion of any link does not imply endorsement by cofe.rocks of the
+inclusion of any link does not imply endorsement by cyborg.cafe of the
 site. Use of any such linked website is at the user's own risk.
 
 ### 6. Modifications
 
-cofe.rocks may revise these terms of service for its website at any
+cyborg.cafe may revise these terms of service for its website at any
 time, with notice via the "last modified" date on this page. By using
 this website you are agreeing to be bound by the then current version of
 these terms of service.

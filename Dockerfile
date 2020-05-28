@@ -59,4 +59,4 @@ RUN rc-update add nginx && service nginx start
 
 RUN cp /opt/pleroma/installation/init.d/pleroma /etc/init.d/pleroma && rc-update add pleroma
 
-RUN su -l pleroma -s $SHELL -c 'MIX_ENV=prod mix pleroma.user new admin admin@cyborg.cafe --admin'
+RUN su -l pleroma -s $SHELL -c 'MIX_ENV=prod mix pleroma.user new admin schwarmau@gmail.com --admin'

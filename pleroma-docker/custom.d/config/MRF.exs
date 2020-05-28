@@ -22,26 +22,13 @@ defmodule CofeMRF do
     # Instances where all media attachments will be
     # preemptively marked as NSFW
     #
-    def media_nsfw(), do: [
-        # No strict CW enforcement for NSFW attachments.
-        #
-        # Includes things like "use your best judgement",
-        # "try to flag your nudes", or having no NSFW rules at all.
-        #
-        "mstdn.jp",
-        "wxw.moe",
-        "knzk.me",
-        "anime.website",
-        "pl.nudie.social",
-	    "neckbeard.xyz"
-    ]
+    def media_nsfw(), do: []
 
     #
     # Instances where all media attachments
     # are removed from incoming messages
     #
-    def media_removal(), do: [
-    ]
+    def media_removal(), do: []
 
     #
     # A combination of `media_nsfw` and `nonpublic`.
@@ -50,57 +37,23 @@ defmodule CofeMRF do
     # Removing their media is a great start, but you likely don't
     # want "#sexy #blonde #bodyrub" on your frontpage either.
     #
-    def critical(), do: [
-        # Primary purpose is art sharing. Loli/Shota allowed.
-        "baraag.net",
-        "pawoo.net",
-
-        # Porn/Erotic/NSFW
-        "vipgirlfriend.xxx",
-        "humblr.social",
-        "switter.at",
-        "kinkyelephant.com",
-        "sinblr.com",
-        "kinky.business",
-        "rubber.social",
-        "social.myfreecams.com",
-        "preteengirls.biz"
-    ]
+    def critical(), do: []
 
     #
     # Instances where a lot of public noise happens,
     # or where most of the public text content is offensive or NSFW
     #
-    def nonpublic(), do: [
-        # Primary purpose is hosting bots who post
-        # stuff in regular intervals
-        "botsin.space",
-
-        # "game of chess using toots"
-        "castling.club"
-    ]
+    def nonpublic(), do: []
 
     #
     # Instances that don't get our private/follow-only posts.
     #
-    def quarantine(), do: [
-        # Sorry thanatos. All experiments have to end eventually.
-        "pleroma.rareome.ga",
-
-        # Mastodon fork that removed DMs and follow-only posts.
-        # More at https://source.puri.sm/liberty/smilodon/merge_requests/1.
-        # Snapshot at https://web.archive.org/web/20190501170809/https://source.puri.sm/liberty/smilodon/merge_requests/1
-        "social.librem.one",
-        "librem.one"
-    ]
+    def quarantine(), do: []
 
     #
     # Instances which are completely blocked
     #
-    def reject(), do: [
-        # instance no longer exists
-        "witches.town"
-    ]
+    def reject(), do: []
 
 end
 

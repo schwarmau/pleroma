@@ -26,7 +26,7 @@ config :pleroma, Pleroma.Repo,
     pool_size: 16
 
 config :pleroma, Pleroma.Web.Endpoint,
-    url: [host: "cofe.rocks", scheme: "https", port: 443],
+    url: [host: "cyborg.cafe", scheme: "https", port: 443],
     http: [
       ip: {0, 0, 0, 0},
       port: 4000
@@ -62,9 +62,9 @@ config :pleroma, :chat, enabled: false
 config :pleroma, :rich_media, enabled: true
 
 config :pleroma, :instance,
-    name: "cofe.rocks: The Pleroma Coffeehouse",
-    description: "A small instance for people who love cofe ☕",
-    email: "cofe@posteo.org",
+    name: "Cyborg Cafe",
+    description: "Have a coffee and recharge your batteries.",
+    email: "gilgamoosh32@gmail.com",
     limit: 16384,
     remote_limit: 16384,
     federating: true,
@@ -85,7 +85,7 @@ config :pleroma, :instance,
 config :pleroma, :fe, false
 config :pleroma, :frontend_configurations,
     pleroma_fe: %{
-        theme: "cofe",
+        theme: "radio",
         background: "/static/background.png",
         logo: "/static/logo.png",
         logoMask: false,
