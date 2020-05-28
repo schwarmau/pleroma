@@ -20,7 +20,7 @@ cd ..
 
 TODO List:
 
-Add dockerfile
+Add dockerfile (and I guess docker-compose.yml, too)
 
 Notes:
 - `docker build [project directory] -f [dockerfile location\Dockerfile] -t [name your image] --build-arg [variable name]=[value]`
