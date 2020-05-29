@@ -60,3 +60,7 @@ RUN rc-update add nginx && service nginx start
 RUN cp /opt/pleroma/installation/init.d/pleroma /etc/init.d/pleroma && rc-update add pleroma
 
 RUN su -l pleroma -s $SHELL -c 'MIX_ENV=prod mix pleroma.user new admin schwarmau@gmail.com --admin'
+
+# TODO: Figure out what the necessary and unnecessary files/tools are, and move only the necessary stuff to a new container.
+#       i.e. FROM alpine:latest AS build -> do stuff -> FROM alpine:latest -> COPY --from=build <necessary stuff> /app -> ENTRYPOINT <some entry point>.
+#       Also, EXPOSE the necessary ports.
