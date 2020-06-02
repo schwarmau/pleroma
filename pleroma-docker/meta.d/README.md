@@ -1,7 +1,7 @@
 # cyborg.cafe
 
 Welcome!
-You're more than welcome to join ([see invite.md](/hosted/pleroma/src/branch/master/meta.d/invite.md)) and hang out with us.
+You're more than welcome to join and hang out with us.
 The instance is not focused on any particular topic,
 but the most frequent ones are Anime, Gaming and Programming.
 
@@ -9,9 +9,9 @@ Does this all look familiar to you? It probably is. This instance heavily utiliz
 
 ## Policies and Rules
 
-Please read our [Rules](/hosted/pleroma/src/branch/master/meta.d/rules.md), [Terms of Service](/hosted/pleroma/src/branch/master/meta.d/tos.md), and [Privacy Policy](/hosted/pleroma/src/branch/master/meta.d/privacy.md) **before** using this site.
-Instance filters/blocks can be found in our or [Block File](/hosted/pleroma/src/branch/master/meta.d/MRF.md).
-All bans and/or content censorship can be found in our [Ban File](/hosted/pleroma/src/branch/master/meta.d/bans.md).
+Please read our rules, terms of service, and privacy policy **before** using this site.
+Instance filters/blocks can be found in our block file.
+All bans and/or content censorship can be found in our ban file.
 
 ## Contact
 
@@ -22,9 +22,7 @@ Send a DM to `@gilgamoosh@cyborg.cafe` / `@admin@cyborg.cafe`, or mail `gilgamoo
 
 We're running the pleroma `develop` branch.
 Bugs and downtimes are an expected part of normal operation.
-Occasionally there may be unannounced downtimes for emergency patches, but that usually happens late at night (EST).
-
-However, despite all that our uptime is usually [>=99.0%](https://uptime.is/99)
+Occasionally there may be unannounced downtimes for emergency patches.
 
 ## Warrant Canary
 
@@ -33,4 +31,4 @@ nor have any searches or seizures taken place at any of our hosting locations or
 
 Special note should be taken if this paragraph gets removed.
 
-Last Update: April 2020
+Last Update: May 2020

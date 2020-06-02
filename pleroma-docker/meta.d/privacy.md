@@ -14,8 +14,6 @@
       THINK BEFORE YOU TYPE. 
       BY SIGNING UP YOU ACCEPT AND AGREE THAT ALL YOUR PUBLICLY AVAILABLE INFORMATION IS
       DE-FACTO PERMANENT AND OUT OF YOUR (OR OUR) CONTROL. 
-      YOU BEAR THE RISK OF USING THIS SOFTWARE. (See also point 3 of [the ToS](/hosted/pleroma/src/branch/master/meta.d/tos.md)).
-- We may collect the first few octets of your IP address for performance analysis, server maintenance, and spam prevention. 
-- We may store this data for up to 4 weeks.
+      YOU BEAR THE RISK OF USING THIS SOFTWARE.
 - Registering and logging in requires setting cookies in your browser.
 - We do not use this information for tracking.

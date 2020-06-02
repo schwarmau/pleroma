@@ -1,4 +1,5 @@
-# pleroma
+# Pleroma
+
 Fork of pleroma and pleroma-fe (https://pleroma.social/)
 
 ```
@@ -18,7 +19,7 @@ git checkout origin/master
 cd ..
 ```
 
-TODO List:
+# TODO List
 
 Add dockerfile (and I guess docker-compose.yml, too)
 
@@ -33,3 +34,5 @@ Notes:
 - use `docker container start [container id] -i` to get logging upon starting the container
 - `docker run -it [image name]:[image tag] sh` to temporarily run a container with an interactive shell
 - `docker exec -it [container id] /bin/bash` to get a bash shell into a running container
+
+Update thumbnail.jpeg, background.png, and logo.png in the pleroma-docker directory.

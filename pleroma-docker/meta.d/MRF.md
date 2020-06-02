@@ -2,8 +2,6 @@
 
 ### Instances we block/filter
 
-**Take a look at our [config file](/hosted/pleroma/src/branch/master/custom.d/config/MRF.exs) (commented and easily readable), or request a fancy listing at [fediverse.network](https://fediverse.network/cyborg.cafe/federation).**
-
 The federation policy of cyborg.cafe is very open.
 Even in cases where your instance directly violates our rules,
 we will try to solve the problem using MRF filters before resorting to defederation.
@@ -14,7 +12,6 @@ Full policy:
 
 - If your instance leaks our private data, we will `quarantine` it
 - If your instance often federates unflagged NSFW, we will flag all your media with `media_nsfw`
-    - This also applies if your instance does not have a rule that enforces flagging, or lax rules like "use your best judgement"
 - If your instance spams our servers over extended periods of time, a high ratelimit or `reject` **(!)** will be discussed depending on severity
 
 Legend:

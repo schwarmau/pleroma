@@ -58,4 +58,4 @@ these terms of service.
 
 --
 
-Last Modified: see git.
+Last Modified: May 2020

@@ -10,6 +10,10 @@ Visit https://memleak.eu/sn0w/pleroma-docker if you want to host your own instan
 
 This instance heavily utilizes the template for cofe.rocks.
 
+# Git Notes
+
+Pleroma-Docker (this) is a standalone thing. The Pleroma and Pleroma-FE directories are works pertaining to the functionality and implementation of Pleroma. Pleroma-Docker is a means to stand up a Pleroma instance. By default, it uses the origin repo for Pleroma, but it can be changed to use this repo by editing the .env file (which then may require updating the dockerfile and related files because the pleroma code is nested with the pleroma folder in this repo, and it's not in the origin repo).
+
 # Pleroma-Docker (Unofficial) Readme
 
 [Pleroma](https://pleroma.social/) is a selfhosted social network that uses OStatus/ActivityPub.
