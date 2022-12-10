@@ -68,7 +68,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^5.2.2",
     "eventsource-polyfill": "^0.9.6",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "file-loader": "^3.0.1",
     "fontello-webpack-plugin": "https://github.com/w3geo/fontello-webpack-plugin.git#6149eac8f2672ab6da089e8802fbfcac98487186",
     "function-bind": "^1.0.2",
